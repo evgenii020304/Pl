@@ -1,0 +1,36 @@
+﻿  Game.cpp
+  Platformer.cpp
+  Player.cpp
+F:\Visual Studio\Platformer\Platformer\Player.cpp(18,54): warning C4244: аргумент: преобразование "const float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual Studio\Platformer\Platformer\Player.cpp(18,41): warning C4244: аргумент: преобразование "const float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual Studio\Platformer\Platformer\Player.cpp(82,26): warning C4244: +=: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Visual Studio\Platformer\Platformer\Player.cpp(127,29): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual Studio\Platformer\Platformer\Player.h(14,27): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+F:\Visual Studio\Platformer\Platformer\Player.h(13,28): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Создание кода...
+F:\Visual Studio\Platformer\Platformer\Player.cpp(61): warning C4172: возвращение адреса локальной или временной переменной : anim_switch
+  Platformer.vcxproj -> F:\Visual Studio\Platformer\x64\Debug\Platformer.exe
